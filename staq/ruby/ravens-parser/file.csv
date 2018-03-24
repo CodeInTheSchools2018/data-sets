@@ -1,0 +1,17 @@
+Date,Opponent,Outcome,Score,Home?
+2017-09-10,Cincinnati Bengals,W,20–0,false
+2017-09-17,Cleveland Browns,W,24–10,true
+2017-09-24,Jacksonville Jaguars,L,7–44,false
+2017-10-01,Pittsburgh Steelers,L,9–26,true
+2017-10-08,Oakland Raiders,W,30–17,false
+2017-10-15,Chicago Bears,L,24–27 (OT),true
+2017-10-22,Minnesota Vikings,L,16–24,false
+2017-10-26,Miami Dolphins,W,40–0,true
+2017-11-05,Tennessee Titans,L,20–23,false
+2017-11-19,Green Bay Packers,W,23–0,false
+2017-11-27,Houston Texans,W,23–16,true
+2017-12-03,Detroit Lions,W,44–20,true
+2017-12-10,Pittsburgh Steelers,L,38–39,false
+2017-12-17,Cleveland Browns,W,27–10,false
+2017-12-23,Indianapolis Colts,W,23–16,true
+2017-12-31,Cincinnati Bengals,L,27–31,true

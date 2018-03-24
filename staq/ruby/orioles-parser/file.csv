@@ -1,0 +1,163 @@
+Game,Date / Box Score,Opponent,Score,Decision
+1,04-03-2017,vs Toronto Blue Jays,3-2,W
+2,04-05-2017,vs Toronto Blue Jays,3-1,W
+3,04-07-2017,vs New York Yankees,6-5,W
+4,04-08-2017,vs New York Yankees,5-4,W
+5,04-09-2017,vs New York Yankees,3-7,L
+6,04-11-2017,at Boston Red Sox,1-8,L
+7,04-12-2017,at Boston Red Sox,12-5,W
+8,04-13-2017,at Toronto Blue Jays,2-1,W
+9,04-14-2017,at Toronto Blue Jays,6-4,W
+10,04-15-2017,at Toronto Blue Jays,1-2,L
+11,04-16-2017,at Toronto Blue Jays,11-4,W
+12,04-18-2017,at Cincinnati Reds,3-9,L
+13,04-19-2017,at Cincinnati Reds,2-0,W
+14,04-20-2017,at Cincinnati Reds,2-1,W
+15,04-21-2017,vs Boston Red Sox,2-0,W
+16,04-22-2017,vs Boston Red Sox,4-2,W
+17,04-23-2017,vs Boston Red Sox,2-6,L
+18,04-24-2017,vs Tampa Bay Rays,6-3,W
+19,04-25-2017,vs Tampa Bay Rays,0-2,L
+20,04-26-2017,vs Tampa Bay Rays,5-4,W
+21,04-28-2017,at New York Yankees,11-14,L
+22,04-29-2017,at New York Yankees,4-12,L
+23,04-30-2017,at New York Yankees,7-4,W
+24,05-01-2017,at Boston Red Sox,5-2,W
+25,05-02-2017,at Boston Red Sox,2-5,L
+26,05-03-2017,at Boston Red Sox,2-4,L
+27,05-04-2017,at Boston Red Sox,8-3,W
+28,05-05-2017,vs Chicago White Sox,4-2,W
+29,05-06-2017,vs Chicago White Sox,6-5,W
+30,05-07-2017,vs Chicago White Sox,4-0,W
+31,05-08-2017,vs Washington Nationals,6-4,W
+32,05-09-2017,vs Washington Nationals,5-4,W
+33,05-10-2017,at Washington Nationals,6-7,L
+34,05-12-2017,at Kansas City Royals,2-3,L
+35,05-13-2017,at Kansas City Royals,3-4,L
+36,05-14-2017,at Kansas City Royals,8-9,L
+37,05-16-2017,at Detroit Tigers,13-11,W
+38,05-17-2017,at Detroit Tigers,4-5,L
+39,05-18-2017,at Detroit Tigers,5-6,L
+40,05-19-2017,vs Toronto Blue Jays,5-3,W
+41,05-20-2017,vs Toronto Blue Jays,7-5,W
+42,05-21-2017,vs Toronto Blue Jays,1-3,L
+43,05-22-2017,vs Minnesota Twins,7-14,L
+44,05-23-2017,vs Minnesota Twins,0-2,L
+45,05-24-2017,vs Minnesota Twins,3-4,L
+46,05-26-2017,at Houston Astros,0-2,L
+47,05-27-2017,at Houston Astros,2-5,L
+48,05-28-2017,at Houston Astros,4-8,L
+49,05-29-2017,vs New York Yankees,3-2,W
+50,05-30-2017,vs New York Yankees,3-8,L
+51,05-31-2017,vs New York Yankees,10-4,W
+52,06-01-2017,vs Boston Red Sox,7-5,W
+53,06-02-2017,vs Boston Red Sox,3-2,W
+54,06-03-2017,vs Boston Red Sox,2-5,L
+55,06-04-2017,vs Boston Red Sox,3-7,L
+56,06-06-2017,vs Pittsburgh Pirates,6-5,W
+57,06-07-2017,vs Pittsburgh Pirates,9-6,W
+58,06-08-2017,at Washington Nationals,1-6,L
+59,06-09-2017,at New York Yankees,2-8,L
+60,06-10-2017,at New York Yankees,3-16,L
+61,06-11-2017,at New York Yankees,3-14,L
+62,06-12-2017,at Chicago White Sox,7-10,L
+63,06-13-2017,at Chicago White Sox,1-6,L
+64,06-14-2017,at Chicago White Sox,10-6,W
+65,06-15-2017,at Chicago White Sox,2-5,L
+66,06-16-2017,vs St. Louis Cardinals,2-11,L
+67,06-17-2017,vs St. Louis Cardinals,15-7,W
+68,06-18-2017,vs St. Louis Cardinals,8-5,W
+69,06-19-2017,vs Cleveland Indians,0-12,L
+70,06-20-2017,vs Cleveland Indians,6-5,W
+71,06-21-2017,vs Cleveland Indians,1-5,L
+72,06-22-2017,vs Cleveland Indians,3-6,L
+73,06-23-2017,at Tampa Bay Rays,5-15,L
+74,06-24-2017,at Tampa Bay Rays,8-3,W
+75,06-25-2017,at Tampa Bay Rays,8-5,W
+76,06-27-2017,at Toronto Blue Jays,3-1,W
+77,06-28-2017,at Toronto Blue Jays,0-4,L
+78,06-29-2017,at Toronto Blue Jays,2-0,W
+79,06-30-2017,vs Tampa Bay Rays,4-6,L
+80,07-01-2017,vs Tampa Bay Rays,3-10,L
+81,07-02-2017,vs Tampa Bay Rays,7-1,W
+82,07-03-2017,at Milwaukee Brewers,1-8,L
+83,07-04-2017,at Milwaukee Brewers,2-6,L
+84,07-05-2017,at Milwaukee Brewers,0-4,L
+85,07-06-2017,at Minnesota Twins,4-6,L
+86,07-07-2017,at Minnesota Twins,6-9,L
+87,07-08-2017,at Minnesota Twins,5-1,W
+88,07-09-2017,at Minnesota Twins,11-5,W
+89,07-14-2017,vs Chicago Cubs,8-9,L
+90,07-15-2017,vs Chicago Cubs,3-10,L
+91,07-16-2017,vs Chicago Cubs,0-8,L
+92,07-17-2017,vs Texas Rangers,3-1,W
+93,07-18-2017,vs Texas Rangers,12-1,W
+94,07-19-2017,vs Texas Rangers,10-2,W
+95,07-20-2017,vs Texas Rangers,9-7,W
+96,07-21-2017,vs Houston Astros,7-8,L
+97,07-22-2017,vs Houston Astros,4-8,L
+98,07-23-2017,vs Houston Astros,9-7,W
+99,07-24-2017,at Tampa Bay Rays,5-0,W
+100,07-25-2017,at Tampa Bay Rays,4-5,L
+101,07-26-2017,at Tampa Bay Rays,1-5,L
+102,07-28-2017,at Texas Rangers,2-8,L
+103,07-29-2017,at Texas Rangers,4-0,W
+104,07-30-2017,at Texas Rangers,10-6,W
+105,07-31-2017,vs Kansas City Royals,2-1,W
+106,08-01-2017,vs Kansas City Royals,7-2,W
+107,08-02-2017,vs Kansas City Royals,6-0,W
+108,08-03-2017,vs Detroit Tigers,5-7,L
+109,08-04-2017,vs Detroit Tigers,2-5,L
+110,08-05-2017,vs Detroit Tigers,5-2,W
+111,08-06-2017,vs Detroit Tigers,12-3,W
+112,08-07-2017,at Los Angeles Angels of Anaheim,6-2,W
+113,08-08-2017,at Los Angeles Angels of Anaheim,2-3,L
+114,08-09-2017,at Los Angeles Angels of Anaheim,1-5,L
+115,08-10-2017,at Oakland Athletics,7-2,W
+116,08-11-2017,at Oakland Athletics,4-5,L
+117,08-12-2017,at Oakland Athletics,12-5,W
+118,08-13-2017,at Oakland Athletics,3-9,L
+119,08-14-2017,at Seattle Mariners,11-3,W
+120,08-15-2017,at Seattle Mariners,1-3,L
+121,08-16-2017,at Seattle Mariners,6-7,L
+122,08-18-2017,vs Los Angeles Angels of Anaheim,9-7,W
+123,08-19-2017,vs Los Angeles Angels of Anaheim,1-5,L
+124,08-20-2017,vs Los Angeles Angels of Anaheim,4-5,L
+125,08-21-2017,vs Oakland Athletics,7-3,W
+126,08-22-2017,vs Oakland Athletics,4-6,L
+127,08-23-2017,vs Oakland Athletics,8-7,W
+128,08-25-2017,at Boston Red Sox,16-3,W
+129,08-26-2017,at Boston Red Sox,7-0,W
+130,08-27-2017,at Boston Red Sox,2-1,W
+131,08-28-2017,vs Seattle Mariners,7-6,W
+132,08-29-2017,vs Seattle Mariners,4-0,W
+133,08-30-2017,vs Seattle Mariners,8-7,W
+134,08-31-2017,vs Toronto Blue Jays,8-11,L
+135,09-01-2017,vs Toronto Blue Jays,1-0,W
+136,09-02-2017,vs Toronto Blue Jays,2-7,L
+137,09-03-2017,vs Toronto Blue Jays,5-4,W
+138,09-04-2017,vs New York Yankees,4-7,L
+139,09-05-2017,vs New York Yankees,7-6,W
+140,09-07-2017,vs New York Yankees,1-9,L
+141,09-08-2017,at Cleveland Indians,0-5,L
+142,09-09-2017,at Cleveland Indians,2-4,L
+143,09-10-2017,at Cleveland Indians,2-3,L
+144,09-11-2017,at Toronto Blue Jays,3-4,L
+145,09-12-2017,at Toronto Blue Jays,2-3,L
+146,09-13-2017,at Toronto Blue Jays,2-1,W
+147,09-14-2017,at New York Yankees,5-13,L
+148,09-15-2017,at New York Yankees,2-8,L
+149,09-16-2017,at New York Yankees,3-9,L
+150,09-17-2017,at New York Yankees,6-4,W
+151,09-18-2017,vs Boston Red Sox,8-10,L
+152,09-19-2017,vs Boston Red Sox,0-1,L
+153,09-20-2017,vs Boston Red Sox,0-9,L
+154,09-21-2017,vs Tampa Bay Rays,3-1,W
+155,09-22-2017,vs Tampa Bay Rays,3-8,L
+156,09-23-2017,vs Tampa Bay Rays,6-9,L
+157,09-24-2017,vs Tampa Bay Rays,9-4,W
+158,09-26-2017,at Pittsburgh Pirates,1-10,L
+159,09-27-2017,at Pittsburgh Pirates,3-5,L
+160,09-29-2017,at Tampa Bay Rays,0-7,L
+161,09-30-2017,at Tampa Bay Rays,3-4,L
+162,10-01-2017,at Tampa Bay Rays,0-6,L
