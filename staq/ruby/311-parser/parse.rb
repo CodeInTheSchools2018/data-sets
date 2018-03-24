@@ -1,6 +1,5 @@
 require "typhoeus"
 require "pathname"
-require "pry"
 
 request_url = "https://data.baltimorecity.gov/resource/2ddy-2uzt.csv"
 api_token = "qq0tU1zDfSVSOkTotw3ckcfHK"
